@@ -1,2 +1,5 @@
-# Repositorio do Desafio de Projeto Git/GitHub da DIO
-Desafio de projeto Git/GitHub
+#Desafio de Projeto Git/GitHub da DIO
+Repositorio criando para o Desafio de projeto.
+
+##Links Úteis
+[Sintaxe básica Mardown]
